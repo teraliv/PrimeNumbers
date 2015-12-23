@@ -1,10 +1,13 @@
+/**
+ * Prime Numbers.
+ *
+ * created by Alex terikov
+ * on 12/23/15.
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Prime Numbers.
- * Created by aterikov on 12/23/15.
- */
 public class PrimeNumbers {
 
 
