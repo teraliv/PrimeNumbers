@@ -1,5 +1,5 @@
-# PrimeNumbers
-findPrimes(N) a function which takes in an integer "N" 
+# Prime Numbers
+<b>findPrimes(N)</b> is a method which takes in an integer "N" 
 that will return a list of integers which are the prime numbers between 2 and "N" (inclusive).
 
 ## Example:
